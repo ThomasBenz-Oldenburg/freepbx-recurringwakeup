@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <rawname>recurringwakeup</rawname>
+  <name>Wiederkehrende Weckrufe</name>
+  <version>15.0.2.0</version>
+  <publisher>Thomas Kersten / OpenAI</publisher>
+  <license>GPLv3+</license>
+  <licenselink>https://www.gnu.org/licenses/gpl-3.0.txt</licenselink>
+  <category>Applications</category>
+  <description>Wiederkehrende Weck- und Rückrufe für interne und externe Ziele, mit Wochentagen, individuellen Uhrzeiten, Pause, Bestätigung mit Taste 1 und Schlummerfunktion mit Taste 5, Wiederholung bei vorzeitigem Auflegen und Telegram-Benachrichtigungen.</description>
+  <menuitems>
+    <recurringwakeup>Wiederkehrende Weckrufe</recurringwakeup>
+  </menuitems>
+  <supported>
+    <version>15.0</version>
+  </supported>
+</module>
