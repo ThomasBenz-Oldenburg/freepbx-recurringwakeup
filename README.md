@@ -1,6 +1,6 @@
 <img width="1536" height="1024" alt="6dbbc854-5d4b-446c-a58c-463825e5c669" src="https://github.com/user-attachments/assets/64c943b7-b6a5-48a8-a600-4d5a597b4609" />
 
-# FreePBX Recurring Wakeup
+## FreePBX Recurring Wakeup
 
 A modern wake-up call module for **FreePBX 15** with automatic retries, snooze support, confirmation handling and optional Telegram notifications.
 
